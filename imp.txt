@@ -1,0 +1,9 @@
+https://aws.amazon.com/training/path-architecting/
+
+https://www.cloudassessments.com/blog/aws-certified-cloud-practitioner/
+
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+https://github.com/open-guides/og-aws#security-and-iam-basics
+
+https://github.com/open-guides/og-aws
